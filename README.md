@@ -22,30 +22,13 @@
 		
 	
  ```
+#### <p align="center"> Let's create something awesome together! Send me a message! </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**pedroalvaradoh/pedroalvaradoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+     <a align="center" href="https://www.linkedin.com/in/pedroalvaradoh/">
+         <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=d400ff" width="30" height="30" alt="linkedin badge">
+     </a>
+     <a href="mailto:pedroalvaradoh@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" />
+     </a>
+ </p>
