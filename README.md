@@ -22,7 +22,7 @@
 		
 	
  ```
-
+#### <p align="center">Currently I'm learning </p>
 <p align="center"> 
 <img src="https://icongr.am/devicon/html5-original.svg?size=121&color=ff2600" style="width: 3%; height: auto; max-width: 3%; max-height: 3%;"> 
 <img src="https://icongr.am/devicon/css3-original.svg?size=121&color=ff2600" style="width: 3%; height: auto; max-width: 3%; max-height: 3%;">
@@ -48,7 +48,7 @@
  <br>
  
  <p align="center"> 
- <img src="assets/undraw_programming_re_kg9v.svg" alt="man coding" style="width: 10%; height: auto; max-width: 10%; max-height: 10%;"/>
- <img src="assets/undraw_to_the_moon_re_q21i.svg" alt="man coding" style="width: 10%; height: auto; max-width: 10%; max-height: 10%;"/>
- <img src="assets/undraw_engineering_team_a7n2.svg" alt="man coding" style="width: 10%; height: auto; max-width: 10%; max-height: 10%;"/>
+ <img src="assets/undraw_programming_re_kg9v.svg" alt="man coding" style="width: 15%; height: auto; max-width: 15%; max-height: 15%;"/>
+ <img src="assets/undraw_to_the_moon_re_q21i.svg" alt="man coding" style="width: 15%; height: auto; max-width: 15%; max-height: 15%;"/>
+ <img src="assets/undraw_engineering_team_a7n2.svg" alt="man coding" style="width: 15%; height: auto; max-width: 15%; max-height: 15%;"/>
  </p>
