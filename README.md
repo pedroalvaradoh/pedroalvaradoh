@@ -1,4 +1,4 @@
-![Hello!](/headerRocket.png)
+![Hello!](assets/header.png)
 
 ### Who am I? 👨🏻‍💻
  ```python
