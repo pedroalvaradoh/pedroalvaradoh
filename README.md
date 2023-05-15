@@ -1,30 +1,25 @@
-### Hi there 👋
-
-```json
-{
-  "name": "Pedro Luis Alvarado Herrera",
-  "location": "Barcelona, Spain",
-  "occupation": "Sound Engineer & Full-Stack Developer in progress",
-  "skills": ["Teamwork, Proactivity, Focus, Creativity"],
-  "interests": ["Music, Photography, Hiking, Surfskate, Videogames"],
-  "links": [
-    {
-      "name": "Enlace a tu sitio web o portfolio",
-      "url": "https://www.tusitio.com"
-    },
-    {
-      "name": "Enlace a tu perfil de LinkedIn",
-      "url": "https://www.linkedin.com/in/tuperfil/"
-    },
-    {
-      "name": "Enlace a tu perfil de Twitter",
-      "url": "https://twitter.com/tuperfil"
-    }
-  ]
-}
-```
-
-
+### Who am I? 👨🏻‍💻
+ ```python
+ class WhoAmI:
+ 	user = 'Pedro Alvarado'
+		current_self = 'Full-Stack Developer in progress'
+		hobbies = [
+				'Music Production',
+				'Photography',
+				'Hiking'
+				'Videogames'
+			]
+	
+	def getCity():
+		return Barcelona_Spain()
+	
+	def SoftSkills():
+		Teamwork()
+		Creativity()
+		Focus()
+		
+	
+ ```
 
 
 
