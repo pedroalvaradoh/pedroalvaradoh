@@ -1,4 +1,4 @@
-![Hello!](/header.png)
+
 
 ### Who am I? 👨🏻‍💻
  ```python
