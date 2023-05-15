@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```javascript
+```json
 {
   "name": "Pedro Luis Alvarado Herrera",
   "location": "Barcelona, Spain",
