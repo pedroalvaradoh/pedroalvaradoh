@@ -4,7 +4,7 @@
  ```python
  class WhoAmI:
  	user = 'Pedro Alvarado'
-		current_self = 'Full-Stack Developer in progress'
+		current_self = 'Full-Stack Developer'
 		hobbies = [
 				'Music Production',
 				'Photography',
